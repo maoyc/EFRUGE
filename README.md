@@ -17,7 +17,7 @@
 
 按需更改main.py中文件夹目录
 
-![image-20220616161848491](C:\Users\22105\AppData\Roaming\Typora\typora-user-images\image-20220616161848491.png)
+![img](https://github.com/maoyc/EFRUGE/blob/main/image/image-20220616161848491.png)
 
 按需调整arguments.py的参数达到不同的目的，例如：
 
