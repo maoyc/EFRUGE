@@ -14,7 +14,7 @@
    百度网盘链接：https://pan.baidu.com/s/1_sEsqeijidanoyGlDYTWwA 
    提取码：rzat
 
-   *PS:  TUDataset放在data文件夹内*
+   *PS:  TUDataset放在data文件夹内，ogbg_molhiv数据集上传网盘会报错，所以可能在运行时也会出错*
 
 3. best_model存放训练好的模型
 
